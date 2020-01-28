@@ -2,5 +2,5 @@
 class Cat
   attr_accessor :name
 
-  attr_reader :meow = "meow!"
+  attr_reader :meow 
 end
